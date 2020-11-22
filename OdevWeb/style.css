@@ -1,0 +1,94 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto:700&display=swap');
+* {
+	padding: 0;
+	margin: 0;
+}
+.ekran {
+	background: url(wpp.jpg) no-repeat;
+	background-size: cover;
+	height: 100vh;
+}
+.logo {
+	width: 150px;
+	height: auto;
+	margin-left: 30px;
+	margin-top: 25px;
+}
+.solMenu {
+	position: fixed;
+	height: 300px;
+	width: 200px;
+	margin-left: 10px;
+	margin-top: 30px;
+	background: rgba(0, 0, 0, 0.4);
+	border-style: groove;
+	border-color: grey;
+}
+.ustMenu {
+	position: fixed;
+	height: 80px;
+	width: 40cm;
+	margin-left: 7cm;
+	margin-top: -4cm;
+	background: rgba(0, 0, 0, 0.4);
+	border-style: groove;
+	border-color: grey;
+}
+.orta {
+	position: fixed;
+	height: 18cm;
+	width: 42.5cm;
+	margin-left: 6cm;
+	margin-top: 5px;
+	background: rgba(0, 0, 0, 0.4);
+	border-style: groove;
+	border-color: grey;	
+}
+.baslik {
+	color: darkcyan;
+	font-size: 20px;
+	font-family: Verdana, Geneva, Tahoma, sans-serif;
+	list-style-type: none;
+	text-align: center;
+	border-style: groove;
+	border-radius: 20px;
+	border-color: black;
+	background: black;	
+}
+.slogan {
+	color: darkgray;
+	font-size: 70px;
+	text-align: center;
+	list-style-type: none;
+	font-family: Verdana, Geneva, Tahoma, sans-serif;	
+}
+.foto {
+	height: 300px;
+	width: 500px;
+	margin-left: 500px;
+	margin-top: 20px;
+}
+.icerik {
+	margin-top: 10px;
+	color: darkcyan;
+	list-style-type: none;
+	font-family: Verdana, Geneva, Tahoma, sans-serif;
+	text-align: center;
+	font-size: 30px;
+}
+ .btn {
+	color: whitesmoke;
+	width: 130px;
+	height: 40px;
+	font-family: Verdana, Geneva, Tahoma, sans-serif;
+	margin-left: 40px;
+	font-size: 20px;
+	margin-top: 20px;
+	background: darkorchid;
+}
+.koseyazi {
+	color: darkcyan;
+	margin-left: -35cm;
+	font-size: 15px;
+}
+
